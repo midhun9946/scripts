@@ -1,0 +1,19 @@
+##Email parameter###
+
+from="midhun.thomson@gmail.com"
+
+to="midhun.thomson@gmail.com"
+
+subject="Daily Test NTR KPI Report"
+
+filepath="/home/ec2-user/Scripts/emailSender/ONM_PATH"
+
+smtpAddress="smtp.gmail.com"
+
+port="587"
+
+password="sxmpmksthqgnyuil"
+
+body="Sending email"
+
+backup="/home/ec2-user/Scripts/emailSender/backup"
